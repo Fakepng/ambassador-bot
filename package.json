@@ -1,0 +1,28 @@
+{
+  "name": "ambassador-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "nodemon test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fakepng/ambassador-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fakepng/ambassador-bot/issues"
+  },
+  "homepage": "https://github.com/Fakepng/ambassador-bot#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
