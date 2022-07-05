@@ -3,7 +3,7 @@
 ## Requirements
 
 1. Discord Bot Token [Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
-2. Google sheet api [`CODE`](##Google-sheet-api-code)
+2. Google sheet api [`CODE`](#Google-sheet-api-code)
 3. Node.js v18.2.0 or newer
 
 ## How to install a bot
