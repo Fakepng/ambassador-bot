@@ -22,7 +22,14 @@
     "discord.js": "^13.8.1",
     "dotenv": "^16.0.1"
   },
+  "nodemonConfig": {
+    "ignore": [
+      "email.json",
+      "id.json"
+    ],
+    "delay": 2500
+  },
   "devDependencies": {
-    "nodemon": "^2.0.18"
+    "nodemon": "^2.0.19"
   }
 }
